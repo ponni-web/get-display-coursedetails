@@ -1,0 +1,54 @@
+.loginCard{
+ border: 1px solid gray;
+ padding: 20px;
+ width: 25%;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-align{
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.inputbox{
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.btnView{
+    background: rgb(12, 115, 210);
+    border: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    cursor: pointer;
+}
+.register{
+    display: flex;
+    
+
+}
+.register button{
+    width:"100px";
+    border: none;
+    margin-left: 5%;
+    padding: 0;
+    background: none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.register p{
+    margin-right: 2%;
+}
